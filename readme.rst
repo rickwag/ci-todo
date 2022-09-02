@@ -1,3 +1,6 @@
+###################
+About
+###################
 This is a simple ToDo list web application made possible using CodeIgniter
 
 ###################
