@@ -1,3 +1,5 @@
+This is a simple ToDo list web application made possible using CodeIgniter
+
 ###################
 What is CodeIgniter
 ###################
